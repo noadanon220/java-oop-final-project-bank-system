@@ -29,3 +29,6 @@ This console-based Java program simulates a **bank management system** with mult
 4. Follow the console menu to interact with the system.
 
 
+## 👩‍💻 Contributors
+- **Noa Danon**
+- **Nofar Liber**
